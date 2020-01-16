@@ -1,0 +1,44 @@
+---
+title: "Statement of Purpose"
+author: "preethi govindarajan"
+date: "1/7/2020"
+output: pdf_document
+header-includes:
+    - \usepackage{setspace}\doublespacing
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+I would like to pursue an academic career in epidemiology and public health. My research interests lie in health economics and the use of observational and administrative data to study efficiency of health care systems and policies. After a masters in epidemiology, I plan to further towards my PhD and if possible would be interested in transitioning my Masters into a PhD.
+
+I am currently working on a fellowship at [CivicDataLab](https://www.civicdatalab.in) studying Public health expenditure data from different states in India and how it translates to health outcomes.
+My motivation for pursuing research in this field stems from my ~5 years of work experience in the pharmaceutical industry, where I worked in publications and medical affairs. 
+
+Before my foray into pharmaceuticals, I recieved my bachelors in Zoology and my masters in Human Genetics in India in [Stella Maris College](http://stellamariscollege.edu.in) and [Sri Ramachandra Medical College](https://www.sriramachandra.edu.in/university/) respectively.    
+
+Following this I moved to Dublin, Ireland and worked as a research fellow with [Dr.Emmeline Hill](https://people.ucd.ie/emmeline.hill) on equine genomics for 1.5 years where I worked on and learnt a lot about Single Nucleotide Polymorphism arrays and Genome Wide Analysis Studies in horses, during which time I helped author three papers on this work. 
+
+After this I started a Phd in bovine reproduction studying the Asialoglycoprotein receptor which is found on the endometrium of cows. A year and half into the PhD, I came to a realization that my research interests were better alligned toward statistical analysis and human population studies and so I moved back to India and after a brief stint as a researcher in the department of biochemistry at the Indian Institute of Science, I took up a position as a publication writer in the vaccines department in GlaxoSmithKline. 
+
+I worked here for four years primarily working with the design and interpretation of phase II and III clinical trials as well as epidemiological studies around vaccines.I familiarized myself further with tools such as SAS and SPSS while working on database studies especially in Brazil and India researching the effectiveness of Rotarix in an infant population. I also studied the various regulations of various countries towards this purpose and then transitioned into management of publications and processes.  
+
+After that I moved to Novo Nordisk as a global project manager in the medical affairs department working with medical communications for a year. During this time I learnt soft skills including structured ways to manage different projects, the discipline to carry difficult projects through to completion, and communication with different stakeholders.
+
+I had to constantly interact with key opinion leaders in the field of diabetes and worked a lot with the lifecycle management of different drugs, clinical trial design, and interpretation of results. I also worked with the review of Investigator Sponsored Studies and with publication management and writing. 
+
+After a year, I left my posiiton to concentrate on furthering the skills I would need to pursue an academic career in Epidemiology. I completed an online data science specialization offered by Johns Hopkins School of Public Health on Coursera where I re-familiarized myself further with inferential statistics, regression models and the programming language R. I have been splitting my time between Canada and India and I am in the process of receiving my Permanent Residency for Canada. 
+
+I believe this wide range of experience has brought me to this point and I have grown and become a better researcher.
+
+I am open to a variety of research topics especially,  
+
+ - #201909010: Specifically health inequalities in access and outcomes of care  
+   Supervisor: Dr. Shehzad Ali  
+ - #201909013: The use of large scale surveys and administrative databases to study health equity  
+   Supervisor: Dr. Sisira Sarma  
+ - #201909019: Research on transgender health across the life course as an interdisciplinary field   seems really promising  
+   Supervisor: Dr. Greta Bauer  
+
